@@ -1,4 +1,4 @@
-import { slotContenders } from "discourse/plugins/discourse-adplugin/discourse/components/ad-slot";
+import { slotContenders } from "discourse/plugins/discourse-cnpkv/discourse/components/ad-slot";
 
 export default {
   shouldRender(args, component) {
